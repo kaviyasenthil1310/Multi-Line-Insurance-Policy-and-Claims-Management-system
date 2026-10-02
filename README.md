@@ -234,4 +234,4 @@ For issues or questions, please refer to the API documentation or modify the cod
 
 ---
 
-**Made with ❤️ for Insurance Management**
+
